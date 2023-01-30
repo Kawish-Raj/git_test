@@ -1,1 +1,2 @@
 hello odin
+checking git commit message editor
